@@ -46,3 +46,4 @@ The easiest way to deploy your MooseStack Applications is to use [Boreal](https:
 
 This template is MIT licensed.
 
+# moose-workflows
