@@ -8,6 +8,6 @@ with open(requirements_path, "r") as f:
 
 setup(
     name='moose-workflows',
-    version='0.0',
+    version='0.1',
     install_requires=requirements,
 )
